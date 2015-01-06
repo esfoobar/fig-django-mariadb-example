@@ -7,7 +7,7 @@ project setup. It uses Django and MariaDB.
 Running Requirements
 ====================
 
-* [Fig](http://orchardup.github.io/fig/)
+* [Fig](http://www.fig.sh/)
 * [Docker](http://docker.io/)
 
 These two requirements must be setup and are outside the scope of this readme. The links above are a good starting place.
